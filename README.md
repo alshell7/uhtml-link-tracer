@@ -84,10 +84,8 @@ system.
   
 >`Metroframework library`
 >The MIT License (MIT)
->Copyright (c) 2011 Sven Walter
->http://github.com/viperneo
->Copyright (c) 2013 Dennis Magno
->http://github.com/dennismagno
+>Copyright (c) 2011 Sven Walter @viperneo
+>Copyright (c) 2013 Dennis Magno @dennismagno
   
 All rights reserved.
 THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
