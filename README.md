@@ -1,9 +1,9 @@
-#.uhtml Link Tracer
+# .uhtml Link Tracer
 > What is a uhtml ?
 Well its a file thats made officially by `UC browser` apps of J2MEE or Android platforms, and is created when one 
 saves the page (web page) inside the browser.
 
-##*Description*
+## *Description*
 The web page files saved by the browser are not accessible outside the app or anywhere, kind of encrypted or some 
 what. I usually save them, and have a look at them later. Pretty much like a bookmark (but use them even if I am 
 not over internet). I had a necessity, to get the links out of them and save them as my bookmark in my PC not 
@@ -14,26 +14,26 @@ some one facing the same problem to trace back url's of those pages, `.uhtml Lin
 
 ![Image of uhtml app](https://github.com/alshell7/uhtml-link-tracer/blob/master/assets/graphics/2_browsed.PNG)
 
-##*Requirements*
+## *Requirements*
 * Windows Platform (Greater than Windows 7) with minimum `.NET framework v3.5` installed should be enough.
 
-##*How to use*
+## *How to use*
 * Connect your phone (or not if you've already have them in your PC)
 * Locate the files (*.uhtml) under "UCDownloads/Pages" (Android) / Your default save location (if J2MEE/s40 platform browser)
 * Hit `Extract the Links!` button, Presto !
 
-##*Features*
+## *Features*
 * Clean UI to work out the stuff.
 * `Save all` the links in a text file in a bundle.
 * `Preview` the links with inline browser or in your default PC browser
 
 ![Image2 of uhtml app](https://github.com/alshell7/uhtml-link-tracer/blob/master/assets/graphics/1_preview_link.PNG)
 
-##*To do*
+## *To do*
 - [ ] Convert the uhtml to html directly.
 - [ ] Have same app for any of mobile platforms.
 
-##*License Agreement*
+## *License Agreement*
 
 READ CAREFULLY ALL TERMS OF THIS LICENSE AGREEMENT BEFORE USING
 THIS SOFTWARE IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS LICENSE
